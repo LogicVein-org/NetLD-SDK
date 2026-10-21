@@ -4,7 +4,9 @@ This repository contains practical examples for extending and integrating LogicV
 
 If you are new to the API, begin with [Getting Started](Examples/Getting-Started/). These focused examples cover common tasks in Python 3, Node.js, and PowerShell. The [Advanced Examples](Examples/Advanced/) build on the same patterns to create more complete workflows, including exports, backups, configuration archives, and job execution. Each maintained example includes its own prerequisites, configuration, run instructions, and expected output.
 
-The repository also includes [Integrations](Integrations/) that connect LogicVein products with other platforms and [Monitor Sets](Monitors/) that can be imported into ThirdEye.
+The repository also includes [Integrations](Integrations/) that connect LogicVein products with other platforms that can be imported into ThirdEye.
+
+Examples of Monitor sets for alerting now exist at [monitor set examples}(https://github.com/LogicVein-org/logicvein-monitors) in a separate public repository.
 
 If you'd like examples on how to use LogicVein's Playbook functionality, we maintain [Playbook Examples](https://github.com/LogicVein-org/Playbooks) in a separate repository.
 
